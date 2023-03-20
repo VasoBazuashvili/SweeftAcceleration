@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "zOipZHWdoHqU9c4QwCyvdNFdnqaZZd59mS0vg4SMNyBysROD9uDJH8JNPjXy8FR2oT5SmiAWx+rJ211oerTwgw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vbazu\\source\\repos\\SweeftAssignment\\SweeftAssignment\\SweeftAssignment.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vbazu\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

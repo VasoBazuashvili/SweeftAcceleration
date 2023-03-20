@@ -1,0 +1,15 @@
+C:\Users\vbazu\source\repos\SweeftAssignment\SqlTaks\bin\Debug\net6.0\SqlTask.exe
+C:\Users\vbazu\source\repos\SweeftAssignment\SqlTaks\bin\Debug\net6.0\SqlTask.deps.json
+C:\Users\vbazu\source\repos\SweeftAssignment\SqlTaks\bin\Debug\net6.0\SqlTask.runtimeconfig.json
+C:\Users\vbazu\source\repos\SweeftAssignment\SqlTaks\bin\Debug\net6.0\SqlTask.dll
+C:\Users\vbazu\source\repos\SweeftAssignment\SqlTaks\bin\Debug\net6.0\SqlTask.pdb
+C:\Users\vbazu\source\repos\SweeftAssignment\SqlTaks\obj\Debug\net6.0\SqlTask.csproj.AssemblyReference.cache
+C:\Users\vbazu\source\repos\SweeftAssignment\SqlTaks\obj\Debug\net6.0\SqlTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vbazu\source\repos\SweeftAssignment\SqlTaks\obj\Debug\net6.0\SqlTask.AssemblyInfoInputs.cache
+C:\Users\vbazu\source\repos\SweeftAssignment\SqlTaks\obj\Debug\net6.0\SqlTask.AssemblyInfo.cs
+C:\Users\vbazu\source\repos\SweeftAssignment\SqlTaks\obj\Debug\net6.0\SqlTask.csproj.CoreCompileInputs.cache
+C:\Users\vbazu\source\repos\SweeftAssignment\SqlTaks\obj\Debug\net6.0\SqlTask.dll
+C:\Users\vbazu\source\repos\SweeftAssignment\SqlTaks\obj\Debug\net6.0\refint\SqlTask.dll
+C:\Users\vbazu\source\repos\SweeftAssignment\SqlTaks\obj\Debug\net6.0\SqlTask.pdb
+C:\Users\vbazu\source\repos\SweeftAssignment\SqlTaks\obj\Debug\net6.0\SqlTask.genruntimeconfig.cache
+C:\Users\vbazu\source\repos\SweeftAssignment\SqlTaks\obj\Debug\net6.0\ref\SqlTask.dll
